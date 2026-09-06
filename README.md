@@ -78,7 +78,7 @@ Illumium flux
 
 RUN INSTRUCTIONS:
 =====
-1. Download illumium_os_interface_build.zip, extract, and run IllumiumFlux.exe
+1. Download [illumium_os_interface_build.zip](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/illumium_os_interface_build.zip), extract, and run IllumiumFlux.exe
 
 2. Enjoy!
 
@@ -87,7 +87,7 @@ RUN INSTRUCTIONS:
 
 BUILD INSTRUCTIONS:
 =====
-1. Download illumium_os_interface_source.zip and extract.
+1. Download [illumium_os_interface_source.zip](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/illumium_os_interface_source.zip) and extract.
 
 2. Download [.NET sdk 11](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-11.0.100-preview.7-windows-x64-installer).
 
