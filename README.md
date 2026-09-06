@@ -38,7 +38,7 @@ WHAT IS ILLUMIUM FLUX OS INTERFACE?
 This is a rewrite of my [windows operating system interface from 11 years ago](https://www.youtube.com/watch?v=p2Apn-gTzqU).
 
 
-ORBARATI/ORBARATUM OR "VERSE" AND ILLUMIUM FLUX OS
+"ORBARATI/ORBARATUM" OR "VERSE" AND ILLUMIUM FLUX OS
 =====
 
 Illumium flux 
