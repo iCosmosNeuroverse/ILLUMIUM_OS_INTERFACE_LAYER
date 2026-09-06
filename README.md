@@ -27,6 +27,9 @@ Note: You can see the ui below is automatically oranged, because my ssd space is
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screenshot%202.png)
 
+![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screenshot%203.png)
+_scrollbar orb pair. Dynamically size as user scrolls orbaratum field left or right_
+
 
 
 
