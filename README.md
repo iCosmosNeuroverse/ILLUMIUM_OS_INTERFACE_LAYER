@@ -17,13 +17,20 @@ Illumium flux
 2. Both folder and file orbs have stars. Their brightness indicate age. Their colour indicate PC state, related to security vulnerability, cpu usage, gpu usage and ram usage. 
 
 ~Persistent colour modes:
+
 🔵 Blue — normal system storage state, under 50% used
+
 🟠 Orange — 50% or more of total HDD/SSD space used
+
 🔴 Red — 10% or less remaining storage space (critical)
+
  
 ~Temporary colour modes:
+
 🔴Will flash red from any persistent colour mode state if security vulnerability detected. 
+
 🔴Will flash red from any persistent colour mode state if cpu usage reaches 98%
+
 🔴Will flash red from any persistent colour mode state if ram usage reaches 98%
 
 
