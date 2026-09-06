@@ -4,12 +4,22 @@ ILLUMIUM FLUX OS INTERFACE LAYER 0.0.0.1
 COSMOS BENNETT & GPT (BASED ON [MY OLDER VARIANT WRITTEN 11 YEARS AGO WITHOUT GPT](https://github.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE))
 =====
 
-MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://github.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE)
+CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://github.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE)
 ====
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/old_illumium_capture_1.png)
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/old_illumium_capture_2.png)
+
+
+CAPTURES OF THIS LATEST ONE THAT NOW RUNS WITHOUT JAVA NAD REDUCED FROM THOUSANDS OF CODE FILES TO BASICALLY 2:
+====
+
+![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screnshot%201.png)
+
+![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screnshot%202.png)
+
+
 
 
 WHAT IS ILLUMIUM FLUX OS INTERFACE?
