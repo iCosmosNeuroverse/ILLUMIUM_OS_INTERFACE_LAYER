@@ -21,9 +21,9 @@ CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/wat
 CAPTURES OF THIS LATEST ONE THAT NOW RUNS WITHOUT JAVA NAD REDUCED FROM THOUSANDS OF CODE FILES TO BASICALLY 2. FASTER:
 ====
 
-![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screnshot%201.png)
+![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screenshot%201.png)
 
-![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screnshot%202.png)
+![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screenshot%202.png)
 
 
 
