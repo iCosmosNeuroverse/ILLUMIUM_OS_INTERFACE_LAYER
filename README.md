@@ -78,7 +78,7 @@ Illumium flux
 
 RUN INSTRUCTIONS:
 =====
-1. Download [illumium_os_interface_build.zip](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/illumium_os_interface_build.zip), extract, and run IllumiumFlux.exe
+1. Download [illumium_os_interface_build.zip](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/illumium_os_interface_build.zip), extract, and run IllumiumFlux.exe in \bin\Release\net8.0-windows\.
 
 2. Enjoy!
 
