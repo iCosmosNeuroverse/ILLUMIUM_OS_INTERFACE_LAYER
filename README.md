@@ -5,7 +5,7 @@ COSMOS BENNETT & GPT (BASED ON [MY OLDER VARIANT WRITTEN 11 YEARS AGO WITHOUT GP
 
 WHAT IS ILLUMIUM FLUX OS INTERFACE?
 =====
-This is a rewrite of my windows operating system interface from 11 years ago.
+This is a rewrite of my [windows operating system interface from 11 years ago](https://github.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE).
 
 
 ORBARATI/ORBARATUM AND ILLUMIUM FLUX OS
