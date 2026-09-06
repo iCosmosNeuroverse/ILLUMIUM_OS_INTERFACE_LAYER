@@ -4,6 +4,12 @@ ILLUMIUM FLUX OS INTERFACE LAYER 0.0.0.1
 COSMOS BENNETT & GPT (BASED ON [MY OLDER VARIANT WRITTEN 11 YEARS AGO WITHOUT GPT](https://www.youtube.com/watch?v=p2Apn-gTzqU))
 =====
 
+GOAL
+=====
+A futuristic, more visually intutitive and volume display ready interface. Volume displays are different from holograms, where by volume displays ([like those from Burton inc japan](https://www.youtube.com/watch?v=FFJ14im1L2Q) ) are actually screenless displays, or volumes in mid air etc, instead of illusory images on flat planes.
+
+
+
 CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/watch?v=p2Apn-gTzqU)
 ====
 
