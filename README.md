@@ -6,7 +6,7 @@ COSMOS BENNETT & GPT (BASED ON [MY OLDER VARIANT WRITTEN 11 YEARS AGO WITHOUT GP
 
 GOAL
 =====
-A futuristic, more visually intutitive and volume display ready interface. Volume displays are different from holograms, where by volume displays ([like those from Burton inc japan](https://www.youtube.com/watch?v=FFJ14im1L2Q) ) are actually screenless displays, or volumes in mid air etc, instead of illusory images on flat planes. O
+A screenless driven/futuristic volume display ready OS interface. Volume displays are different from holograms, where by volume displays ([like those from Burton inc japan](https://www.youtube.com/watch?v=FFJ14im1L2Q) ) are actually screenless displays, or volumes in mid air etc, instead of illusory images on flat planes. 
 
 
 
@@ -35,12 +35,12 @@ WHAT IS ILLUMIUM FLUX OS INTERFACE?
 This is a rewrite of my [windows operating system interface from 11 years ago](https://www.youtube.com/watch?v=p2Apn-gTzqU).
 
 
-ORBARATI/ORBARATUM AND ILLUMIUM FLUX OS
+ORBARATI/ORBARATUM OR "VERSE" AND ILLUMIUM FLUX OS
 =====
 
 Illumium flux 
 
-1. On a normal folder (or orbaratum) the folders are white orbs, while the files (atoms) are black
+1. On a normal folder or "verse" (or orbaratum) the folders are white orbs, while the files (atoms) are black
 
 2. Both folder and file orbs have **stars**. Their brightness indicate age. Their colour indicate PC state, related to security vulnerability, cpu usage, gpu usage and ram usage. 
 
