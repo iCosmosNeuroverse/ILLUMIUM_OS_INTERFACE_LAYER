@@ -75,7 +75,7 @@ Illumium flux
 
 RUN INSTRUCTIONS:
 =====
-1. Download illumium_os_interface_build.zip, extract, and run LAUNCH_ILLUMIUM.exe
+1. Download illumium_os_interface_build.zip, extract, and run IllumiumFlux.exe
 
 2. Enjoy!
 
