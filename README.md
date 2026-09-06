@@ -67,9 +67,11 @@ BUILD INSTRUCTIONS:
 
 5. Run each of the following in order individually, wait till each finishes:
 
+```
 dotnet --version
 
 dotnet build -c Release
+```
 
 6. Run resulting exe in \bin\Release\net8.0-windows\
 
