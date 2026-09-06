@@ -10,22 +10,27 @@ This is a rewrite of my [windows operating system interface from 11 years ago](h
 
 ORBARATI/ORBARATUM AND ILLUMIUM FLUX OS
 =====
+
 Illumium flux 
 
 1. On a normal folder (or orbaratum) the folders are white orbs, while the files are black
 
-2. Both folder and file orbs have stars. Their brightness indicate age. Their colour indicate PC state, related to security vulnerability, cpu usage, gpu usage and ram usage. 
+2. Both folder and file orbs have **stars**. Their brightness indicate age. Their colour indicate PC state, related to security vulnerability, cpu usage, gpu usage and ram usage. 
 
-~Persistent colour modes:
+**Persistent colour modes**:
+
+```
 
 🔵 Blue — normal system storage state, under 50% used
 
 🟠 Orange — 50% or more of total HDD/SSD space used
 
 🔴 Red — 10% or less remaining storage space (critical)
-
+```
  
-~Temporary colour modes:
+**Temporary colour modes**:
+
+```
 
 🔴Will flash red from any persistent colour mode state if security vulnerability detected. 
 
@@ -33,7 +38,7 @@ Illumium flux
 
 🔴Will flash red from any persistent colour mode state if ram usage reaches 98%
 
-
+```
 
 3. Clicking inside may reveal another orbaratum of containers or files themselves with stars.
 
