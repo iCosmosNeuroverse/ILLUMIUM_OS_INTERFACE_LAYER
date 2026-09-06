@@ -38,7 +38,7 @@ ORBARATI/ORBARATUM AND ILLUMIUM FLUX OS
 
 Illumium flux 
 
-1. On a normal folder (or orbaratum) the folders are white orbs, while the files are black
+1. On a normal folder (or orbaratum) the folders are white orbs, while the files (atoms) are black
 
 2. Both folder and file orbs have **stars**. Their brightness indicate age. Their colour indicate PC state, related to security vulnerability, cpu usage, gpu usage and ram usage. 
 
@@ -67,7 +67,7 @@ Illumium flux
 
 3. Clicking inside may reveal another orbaratum of containers or files themselves with stars.
 
-4. The colours of all stars are either green red or blue, all one colour at a time depending on space or cpu remaining. as cpu or ram or storage runs out, it goes from green to blue to red. Orange is a special state that denotes suspicion of firewall breach or harmful program detection. blue is normal state.
+4. Scrolling on one page accross an orbaratum field, will dynamically size nodes relative to each other. For eg, scrolling may reveal equally sized nodes by default that later quickly dynamically normalize and vary based on relative file "atom" or folder "orbaratum" size.
 
 
 
