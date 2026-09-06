@@ -21,6 +21,8 @@ CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/wat
 CAPTURES OF THIS LATEST ONE THAT NOW RUNS WITHOUT JAVA NAD REDUCED FROM THOUSANDS OF CODE FILES TO BASICALLY 2. FASTER:
 ====
 
+Note: You can see the ui below is automatically oranged, because my ssd space is over 50% consumed. On a system with over that blue is the normal state. Less than 11% storage is red persistent theme.
+
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screenshot%201.png)
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screenshot%202.png)
