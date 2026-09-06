@@ -10,7 +10,7 @@ A futuristic, more visually intutitive and volume display ready interface. Volum
 
 
 
-CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/watch?v=p2Apn-gTzqU)
+CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/watch?v=p2Apn-gTzqU). THIS WAS SLOW AND I WROTE THIS IN THOUSANDS OF CODE FILES.
 ====
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/old_illumium_capture_1.png)
@@ -18,7 +18,7 @@ CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/wat
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/old_illumium_capture_2.png)
 
 
-CAPTURES OF THIS LATEST ONE THAT NOW RUNS WITHOUT JAVA NAD REDUCED FROM THOUSANDS OF CODE FILES TO BASICALLY 2:
+CAPTURES OF THIS LATEST ONE THAT NOW RUNS WITHOUT JAVA NAD REDUCED FROM THOUSANDS OF CODE FILES TO BASICALLY 2. FASTER:
 ====
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/orbaratum%20screnshot%201.png)
