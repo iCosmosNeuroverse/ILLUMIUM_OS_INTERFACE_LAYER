@@ -70,7 +70,7 @@ Illumium flux
 
 ```
 
-3. Clicking inside may reveal another orbaratum of containers or files themselves with stars.
+3. Clicking an orb may reveal another orbaratum of containers or files themselves with stars.
 
 4. Scrolling on one page accross an orbaratum field, will dynamically size nodes relative to each other. For eg, scrolling may reveal equally sized nodes by default that later quickly dynamically normalize and vary based on relative file "atom" or folder "orbaratum" size.
 
