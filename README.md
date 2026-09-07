@@ -10,7 +10,7 @@ A screenless driven/futuristic volume display ready OS interface. Volume display
 
 
 
-CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/watch?v=p2Apn-gTzqU). THIS WAS SLOW AND I WROTE THIS IN THOUSANDS OF CODE FILES.
+CAPTURES OF MY OLD OS INTERFACE [FROM 11 YEARS BACK](https://www.youtube.com/watch?v=p2Apn-gTzqU). THIS WAS SLOW AND I WROTE THIS IN THOUSANDS OF CODE FILES. (BTW THE MUSIC IN THE VIDEO IS ACTUALLY A PART OF THE SOFTWARE. IT STILL RUNS  TODAY ALBEIT SLOWLY):
 ====
 
 ![Alt Text](https://github.com/iCosmosNeuroverse/ILLUMIUM_OS_INTERFACE_LAYER/blob/main/old_illumium_capture_1.png)
